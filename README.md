@@ -1,12 +1,10 @@
 # STB Openwrt Windows Xderm Trigger GUI 
 
-# Luci GUI 
-![be](# Xderm Trigger Mode SSL 
+# Luci GUI
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/luci.jpg)
 
 
-# Xderm Trigger Mode SSL 
-![be](# Xderm Trigger Mode SSL 
+# Xderm Trigger Mode SSL
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/ssh.jpg)
 
 
