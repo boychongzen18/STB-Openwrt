@@ -7,7 +7,8 @@
 # Xderm Trigger Mode SSL
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/ssh.jpg)
 
-
+# Player YouTube Kualitas 720p
+![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/yt.jpg)
 
 
 
