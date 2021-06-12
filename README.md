@@ -1,6 +1,6 @@
 # STB Openwrt Windows Xderm Trigger GUI 
 
-# Luci GUI
+# Operator XL & Paket Unlimited
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/luci.jpg)
 
 
