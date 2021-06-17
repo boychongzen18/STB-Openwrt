@@ -1,0 +1,14 @@
+Edit Banner STB Openwrt
+
+Creator Boychongzen aka Xroot
+
+
+ssh root@192.168.1.1
+
+cd /etc/sysco
+
+nano sysco
+
+link edit banner
+
+http://www.network-science.de/ascii/
