@@ -2,12 +2,25 @@ Edit Banner STB Openwrt
 
 Creator Boychongzen aka Xroot
 
+1. Banner STB Openwrt v.18.06
 
-ssh root@192.168.1.1
+   ssh root@192.168.1.1
+   
+   cd ..
+   cd sbin/sysco
+   nano sysco
 
-cd /etc/sysco
+link edit banner
 
-nano sysco
+http://www.network-science.de/ascii
+
+2. Banner STB Openwrt v.19.07 keatas
+
+   ssh root@192.168.1.1
+
+   cd ..
+   cd etc/sysco
+   nano sysco
 
 link edit banner
 
