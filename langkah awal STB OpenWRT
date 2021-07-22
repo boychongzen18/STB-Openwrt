@@ -1,0 +1,12 @@
+Burning OpenWRT , Update Xderm & Tambah Free Space Sdcard / FlasDisk
+
+1.Update Xderm
+
+opkg update && opkg install httping
+
+opkg update && opkg install coreutils-timeout
+
+2.Free Space Sdcard / FlasDisk
+
+Download Applikasi MiniTool Partition Wizard
+
