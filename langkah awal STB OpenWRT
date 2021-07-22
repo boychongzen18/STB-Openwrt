@@ -6,6 +6,8 @@ opkg update && opkg install httping
 
 opkg update && opkg install coreutils-timeout
 
+opkg install coreutils-base64
+
 2.Free Space Sdcard / FlasDisk
 
 Download Applikasi MiniTool Partition Wizard
