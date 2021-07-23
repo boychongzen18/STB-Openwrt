@@ -21,6 +21,15 @@ http://www.network-science.de/ascii
    cd ..
    cd etc/sysco
    nano sysco
+   
+ 3. Banner STB Openwrt v.18.06 ORI
+
+   ssh root@192.168.1.1
+   
+   cd ..
+   cd etc/banner
+   nano banner
+   
 
 link edit banner
 
