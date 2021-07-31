@@ -1,0 +1,23 @@
+Cara Install Injeksi Passwall
+
+Creator Boychongzen aka Xroot
+
+
+1. Hapus File di bawah ini : 
+
+/etc/hotplug.d/ntp/25-dnsmasqsec
+/etc/init.d/dnsmasq
+/usr/lib/dnsmasq/dhcp-script.sh
+/usr/sbin/dnsmasq
+/usr/share/acl.d/dnsmasq_acl.json
+/usr/share/dnsmasq/dhcpbogushostname.conf
+/usr/share/dnsmasq/rfc6761.conf
+
+
+2. Copas bahan di Passwall /root
+
+buka putty / cmder di Windows
+
+3. install Passwall
+
+opkg update && opkg install *.ipk 
