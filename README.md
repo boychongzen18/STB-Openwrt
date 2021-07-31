@@ -1,6 +1,6 @@
 # STB Openwrt Windows
 
-# Cek Free Space Sdacrd & Flasdisk 
+# Cek Free Space Sdacrd & Flasdisk 100MB
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/fd.jpg)
 
 # Cek Free Space Sdacrd & Flasdisk Kembali Semula 
