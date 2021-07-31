@@ -6,15 +6,8 @@
 # Cek Free Space Sdacrd & Flasdisk Kembali Semula 
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/fd1.jpg)
 
-# Operator XL & Paket Unlimited
-![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/luci.jpg)
-
-
-# Xderm Trigger Mode SSL
-![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/ssh.jpg)
-
-# Player YouTube Kualitas 720p
-![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/yt.jpg)
+# Burning OpenWRT On Flasdisk
+![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/burning.jpg)
 
 
 
