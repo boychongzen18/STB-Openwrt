@@ -2,6 +2,9 @@ Cara Install Injeksi Passwall
 
 Creator Boychongzen aka Xroot
 
+Tester STB OpenWRT 18.06.2 ORI & Modif
+
+Install Manual Passwall
 
 1. Hapus File di bawah ini : 
 
