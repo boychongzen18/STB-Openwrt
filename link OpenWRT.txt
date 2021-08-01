@@ -1,0 +1,18 @@
+
+Link Dowload aLL OpenWRT
+
+Support STB HG680P & H860P
+
+Tester OpenWRT On WIFI : Boychongzen aka Xroot
+
+Fw.18.06.2 ORI
+https://www.mediafire.com/file/a6nzozabagelgqb/pulpstone-openwrt-18.06.2-amlogic-s905x-kernel_3.14_ORI_REV1.zip/file
+
+Fw.18.06.2 Modif
+https://www.mediafire.com/file/hccisia8hum7g2c/STB_Stabil_dan_cocok.zip/file
+
+Fw.19.07.4 Modif
+https://www.mediafire.com/file/1dupv5esb0tnbr7/Openwrt-19.07.4-s905x-K_5.7.2.-Rev.3.2.img.xz/file
+
+Fw.AP_Edition
+https://www.mediafire.com/file/g68fplnv8ltrnrw/openwrt_s905x_v5.4.128_AP-Edition_REV.4.zip/file
