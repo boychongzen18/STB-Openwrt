@@ -6,6 +6,8 @@
 # Cek Free Space Sdacrd & Flasdisk Kembali Semula 
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/fd1.jpg)
 
+Link Download : https://www.partitionwizard.com/download.html
+
 # Burning OpenWRT On Flasdisk
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/burning.jpg)
 
