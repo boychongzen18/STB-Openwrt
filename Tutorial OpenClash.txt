@@ -1,0 +1,15 @@
+
+Install Manual OpenClash
+
+Creator Boychongzen aka Xroot
+
+cd /root
+
+opkg update
+opkg install luci-app-clash_v1.7.5.7_all.ipk
+opkg install luci-app-clash_v1.7.5.7_all.ipk --force-depends
+
+
+Uninstall
+opkg remove luci-app-clash
+opkg remove luci-app-clash --force-remove
