@@ -3,9 +3,24 @@ Install Manual OpenClash
 
 Creator Boychongzen aka Xroot
 
-cd /root
+cd /tmp
 
 opkg update
+bash
+coreutils
+coreutils-nohup
+coreutils-base64
+ipset
+iptables
+luci
+luci-base
+wget
+libustream-openssl
+curl
+jsonfilter
+ca-certificates
+iptables-mod-tproxy
+kmod-tun
 opkg install luci-app-clash_v1.7.5.7_all.ipk
 opkg install luci-app-clash_v1.7.5.7_all.ipk --force-depends
 
