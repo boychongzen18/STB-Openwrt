@@ -13,9 +13,11 @@ Link Download : https://www.partitionwizard.com/download.html
 
 
 
- Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
 Tutorial Format FD : https://youtu.be/toInEqn0GeM
+
+Tutorial Install OpenWRT : https://youtu.be/_Oqg65_7h5c
 
 My Website    : https://hackingforlive.wordpress.com
 
