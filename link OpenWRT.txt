@@ -5,6 +5,10 @@ Support STB HG680P & H860P
 
 Tester OpenWRT On & Off WIFI : Boychongzen aka Xroot
 
+
+Fw.18.06.2 MODIF
+https://www.mediafire.com/file/x2bh77cvl5tzgh0/OpenWRT_18_Modif.img.xz/file
+
 Fw.18.06.2 ORI
 https://www.mediafire.com/file/a6nzozabagelgqb/pulpstone-openwrt-18.06.2-amlogic-s905x-kernel_3.14_ORI_REV1.zip/file
 
