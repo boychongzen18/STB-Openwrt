@@ -20,3 +20,6 @@ https://www.mediafire.com/file/1dupv5esb0tnbr7/Openwrt-19.07.4-s905x-K_5.7.2.-Re
 
 Fw.AP_Edition
 https://www.mediafire.com/file/g68fplnv8ltrnrw/openwrt_s905x_v5.4.128_AP-Edition_REV.4.zip/file
+
+RaspberryPi-4
+
