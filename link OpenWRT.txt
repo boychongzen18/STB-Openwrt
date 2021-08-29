@@ -22,4 +22,5 @@ Fw.AP_Edition
 https://www.mediafire.com/file/g68fplnv8ltrnrw/openwrt_s905x_v5.4.128_AP-Edition_REV.4.zip/file
 
 RaspberryPi-4
+https://www.mediafire.com/file/claxdgjz7mx69zf/backup-fullinstal-rpi4-v11.rar/file
 
