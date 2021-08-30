@@ -18,12 +18,18 @@ https://www.mediafire.com/file/hccisia8hum7g2c/STB_Stabil_dan_cocok.zip/file
 Fw.18.06.2_Rev.3.3
 https://www.mediafire.com/file/01cek9o6wyq2mkt/Pulpstone-18.06.2-s905x-K-3.14_REV.3.3.img.xz/file
 
-Fw.19.07.4 Modif
-https://www.mediafire.com/file/1dupv5esb0tnbr7/Openwrt-19.07.4-s905x-K_5.7.2.-Rev.3.2.img.xz/file
+Fw.19.07.6_Rev.7
+https://www.mediafire.com/file/s2ck94nxcixg4rb/OpenWrt_19.07.6_s905x_3.14.29.Rev.7.img.xz/file
 
 Fw.AP_Edition
 https://www.mediafire.com/file/g68fplnv8ltrnrw/openwrt_s905x_v5.4.128_AP-Edition_REV.4.zip/file
 
 RaspberryPi-4
 https://www.mediafire.com/file/claxdgjz7mx69zf/backup-fullinstal-rpi4-v11.rar/file
+
+
+
+
+
+
 
