@@ -15,6 +15,9 @@ https://www.mediafire.com/file/a6nzozabagelgqb/pulpstone-openwrt-18.06.2-amlogic
 Fw.18.06.2 Modif
 https://www.mediafire.com/file/hccisia8hum7g2c/STB_Stabil_dan_cocok.zip/file
 
+Fw.18.06.2_Rev.3.3
+https://www.mediafire.com/file/01cek9o6wyq2mkt/Pulpstone-18.06.2-s905x-K-3.14_REV.3.3.img.xz/file
+
 Fw.19.07.4 Modif
 https://www.mediafire.com/file/1dupv5esb0tnbr7/Openwrt-19.07.4-s905x-K_5.7.2.-Rev.3.2.img.xz/file
 
