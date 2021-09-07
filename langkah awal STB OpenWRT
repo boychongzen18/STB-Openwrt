@@ -16,6 +16,15 @@ Download Applikasi MiniTool Partition Wizard
 
 4.Link Install vpn-baypass : https://anotepad.com/notes/588gyw7k
 
+5.Setting Jam Otomatis Saat Reboot Atau Mati Lampu
+  Buka Luci > System > Startup 
+  
+  Note : Isi Tahun , Bulan Tanggal & Jam Sesuai Waktu di Hp / Laptop
+  
+  data -s "2021-09-7 16:07"
+  exit 0
+
+
 
 Creator Boychongzen aka Xroot
 
