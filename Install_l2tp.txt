@@ -2,19 +2,21 @@
 Cara Install Tunnel L2TP di OpenWRT
 
 
-1. Pastikan router openwrt ada koneksi internet reguler kemudian paste perintah berikut di terminal "putty"
+
+
+1. Download Putty & Buka Terminal Putty
 
 opkg update && opkg install udptunnel xl2tpd strongswan-default
 
-2. Restart network all interface pada router via putty yg bertujuan agar muncul protocol l2tp saat add new interface
+2. Restart Network All interfaces
 
 /etc/init.d/network restart
 
-3. Buat interface L2TP via luci openwrt "Luci > network > interface > add new interface"
+3. Buat Interfaces L2TP Via luci OpenWRT "Luci > Network > Interfaces > Add New Interfaces
 
-- buat interface dengan nama "l2tp"
+- buat interface dengan nama L2TP
 
-- protocol pilih "l2tp"
+- protocol pilih L2TP
 
 - firewall setting arahkan ke zona "wan"
 
@@ -22,7 +24,7 @@ opkg update && opkg install udptunnel xl2tpd strongswan-default
 
 4. Buat firewall khusus untuk L2TP "Luci > network > firewall > add"
 
-- general setting , nama interface "ipsec"
+- general setting , nama interfaces "ipsec"
 
 - input "accept"
 
@@ -34,7 +36,7 @@ opkg update && opkg install udptunnel xl2tpd strongswan-default
 
 - MSS clamping "centang"
 
-- Covered networks arahkan ke interface "l2tp"
+- Covered networks arahkan ke interfaces "L2TP"
 
 - Allow forward to destination zones arahkan ke "wan"- save
 
