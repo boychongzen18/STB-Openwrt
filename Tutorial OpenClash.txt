@@ -3,6 +3,8 @@ Install Manual OpenClash
 
 Creator Boychongzen aka Xroot
 
+Tester STB OpenWRT 18 Modif 
+
 cd /tmp
 
 opkg update
