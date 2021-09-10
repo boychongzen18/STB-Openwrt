@@ -1,0 +1,20 @@
+
+
+Monitoring Jaringan di STB OpenWRT
+
+
+
+
+Install NetDiscover
+
+opkg update && opkg install netdiscover
+
+Cek IP STB OpenWRT
+
+ifconfig > Cek Devices > eth0 Via LAN 
+
+Eksekusi 
+
+netdiscover -i Devices
+
+
