@@ -1,7 +1,9 @@
 
 Cara Install Tunnel L2TP di OpenWRT
 
+Creator Boychongzen aka Xroot
 
+Tester STB OpenWRT 18 Modif 
 
 
 1. Download Putty & Buka Terminal Putty
