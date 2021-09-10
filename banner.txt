@@ -2,6 +2,8 @@ Edit Banner STB Openwrt
 
 Creator Boychongzen aka Xroot
 
+Tester STB OpenWRT 18 Modif & All Fw
+
 1. Banner STB Openwrt v.18.06
 
    ssh root@192.168.1.1
