@@ -2,7 +2,9 @@
 
 Monitoring Jaringan di STB OpenWRT
 
+Creator Boychongzen aka Xroot
 
+Tester STB OpenWRT 18 Modif 
 
 
 Install NetDiscover
