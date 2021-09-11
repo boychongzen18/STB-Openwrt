@@ -4,6 +4,6 @@ Fix Error tempcpu Thema Argon
 cd /usr/lib/lua/luci/view/themes
 
 copy diatas body
+
 <div id="tempcpu"></div>
 </body>
-<div id="tempcpu"></div>
