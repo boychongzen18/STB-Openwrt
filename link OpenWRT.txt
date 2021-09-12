@@ -25,7 +25,7 @@ Fw.19.07.6_Rev.7
 https://www.mediafire.com/file/s2ck94nxcixg4rb/OpenWrt_19.07.6_s905x_3.14.29.Rev.7.img.xz/file
 
 Fw.19.07.6_Modif
-https://drive.google.com/file/d/1YwxYjd-Le4pamEiiLli9oje6cwkZskaA/view?usp=sharing
+https://drive.google.com/file/d/1xNQI1R5-nfYe2NP3q3wodM5IOSI3nh6E/view?usp=sharing
 
 Fw.AP_Edition
 https://www.mediafire.com/file/g68fplnv8ltrnrw/openwrt_s905x_v5.4.128_AP-Edition_REV.4.zip/file
