@@ -1,0 +1,24 @@
+
+Cara Install Manual v2ray di STB OpenWRT Fw.19.07.6
+
+
+1.Install Manual
+  
+  cd /tmp
+  opkg update 
+  opkg install file ipk
+ 
+Delete file /etc/hotplug.d/ntp/25-dnsmasqsec
+Delete file /etc/init.d/dnsmasq
+
+Delete file /usr/lib/dnsmasq/dhcp-script.sh
+Delete file /usr/sbin/dnsmasq
+Delete file /usr/share/acl.d/dnsmasq_acl.json
+Delete file /usr/share/dnsmasq/dhcpbogushostname.conf
+Delete file /usr/share/dnsmasq/rfc6761.conf
+
+
+
+
+2.Remove v2ray
+  opkg remove v2ray-core # luci-app-v2ray
