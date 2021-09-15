@@ -3,6 +3,10 @@ Cara Install Manual v2ray di STB OpenWRT Fw.19.07.6
 
 
 1.Install Manual
+
+Download File2 ipk
+https://www.mediafire.com/file/wooxg4lodx635mf/luci-app-v2ray_1.5.6_all.ipk/file
+
   
   cd /tmp
   opkg update 
