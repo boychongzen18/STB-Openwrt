@@ -34,6 +34,11 @@ RaspberryPi-4
 https://www.mediafire.com/file/claxdgjz7mx69zf/backup-fullinstal-rpi4-v11.rar/file
 
 
+https://github.com/ophub/amlogic-s9xxx-openwrt/releases/tag/openwrt_s9xxx_lede_2021.09.17.1546
+
+
+
+
 
 
 
