@@ -1,9 +1,10 @@
 
 Fix Error tempcpu Thema Argon
 
-cd /usr/lib/lua/luci/view/themes
+cd /usr/lib/lua/luci/view/themes/footer.htm < edit & masukan 
 
 copy diatas body
 
 <div id="tempcpu"></div>
+<div id="cpuusage"></div>
 </body>
