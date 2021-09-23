@@ -1,5 +1,7 @@
+Creator Boychongzen aka Xroot
 
-Fix Error tempcpu Thema Argon
+
+1. Fix Error tempcpu Thema Argon
 
 cd /usr/lib/lua/luci/view/themes/footer.htm < edit & masukan 
 
@@ -8,3 +10,11 @@ copy diatas body
 <div id="tempcpu"></div>
 <div id="cpuusage"></div>
 </body>
+
+2. Fix Error Openclas
+
+download thema_argon
+
+cd /www
+
+luci-static/argon
