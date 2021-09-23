@@ -30,6 +30,7 @@ https://drive.google.com/file/d/1xNQI1R5-nfYe2NP3q3wodM5IOSI3nh6E/view?usp=shari
 Fw.AP_Edition
 https://www.mediafire.com/file/g68fplnv8ltrnrw/openwrt_s905x_v5.4.128_AP-Edition_REV.4.zip/file
 
+Fw.AP_Edition MOD
 https://drive.google.com/file/d/1sMVHL6jXvsYneP06SlnprxPjqzOHKAAA/view?usp=sharing
 
 
