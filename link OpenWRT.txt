@@ -1,7 +1,7 @@
 
 Link Dowload aLL OpenWRT
 
-Support STB HG680P & H860P
+Support STB HG680P & H860H
 
 Tester OpenWRT On & Off WIFI : Boychongzen aka Xroot
 
