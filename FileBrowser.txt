@@ -1,0 +1,37 @@
+
+
+
+
+Download File Browser
+
+masukkan filenya
+
+folder > tmp
+
+install File Browser
+
+opkg install luci-app-filebrowser_1.1_all.ipk
+
+Download File Browser Sesuai system stb anda
+wget linux-armv7-filebrowser.tar.gz
+
+ekastrak file linux-armv7-filebrowser.tar.gz
+
+copas di folder /usr/bin
+
+mv filebrowser /usr/bin
+
+chmod 777 filebrowser
+
+setting filebrowser
+
+centang > enabel
+
+listing port : 7878
+
+project directory : /usr/bin
+
+save
+
+user : admin
+pwd : admin
