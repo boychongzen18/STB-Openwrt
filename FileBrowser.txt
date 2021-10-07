@@ -1,10 +1,8 @@
+Creator Boychongzen aka Xroot
 
+Cara Install Luci File Browser
 
-
-
-Download File Browser
-
-masukkan filenya
+Download Filenya
 
 folder > tmp
 
