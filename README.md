@@ -11,6 +11,11 @@ Link Download : https://www.partitionwizard.com/download.html
 # Burning OpenWRT On Flasdisk
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/burning.jpg)
 
+# LAN Gigabit & Speedtest 100mbps
+![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/hp.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/gigabit.jpg)
+
+
 Link Dowload Rufus : https://rufus.ie/en/
 
 Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
