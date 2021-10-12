@@ -3,7 +3,7 @@ Link Dowload aLL OpenWRT
 
 Support STB HG680P & H860H
 
-Tester OpenWRT On & Off WIFI : Boychongzen aka Xroot
+Tester OpenWRT ON & OFF WIFI : Boychongzen aka Xroot
 
 
 Fw.18.06.2 MODIF
@@ -24,6 +24,9 @@ https://drive.google.com/file/d/1xNQI1R5-nfYe2NP3q3wodM5IOSI3nh6E/view?usp=shari
 
 Fw.19.07.6_Modif_v2 WIFI On
 https://drive.google.com/file/d/1EIW0JLI8_kpm5QKWyoayUZjI91e4m_yT/view?usp=sharing
+
+Fw.19.07.6_Modif_v3 WIFI On
+https://drive.google.com/file/d/1tOqjd_WrEa7eiU1K7iTJ1-PW-9fTiPJd/view?usp=sharing
 
 
 Fw.AP_Edition MOD WIFI OFF
