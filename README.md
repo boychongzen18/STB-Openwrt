@@ -14,6 +14,7 @@ Link Download : https://www.partitionwizard.com/download.html
 # LAN Gigabit & Speedtest 100mbps
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/hp.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/gigabit.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/sped.png)
 
 
 Link Dowload Rufus : https://rufus.ie/en/
