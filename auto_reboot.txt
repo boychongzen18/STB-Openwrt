@@ -1,0 +1,10 @@
+
+Creator Boychongzen aka Xroot
+
+Buka Luci
+Copas tulisan di Scheduled Tasks
+
+Jam Reboot 18 - 23
+
+59 17 *** sleep 10 && /sbin/reboot
+59 23 *** sleep 10 && /sbin/reboot
