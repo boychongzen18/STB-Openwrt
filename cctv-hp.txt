@@ -1,0 +1,26 @@
+Creator Boychongzen aka Xroot
+
+1. Install Apk IP Webcam di PS
+
+2. Buka Terminal STB OpenWRT
+
+Copas Script di Bawah
+
+cat <<'EOF' >/usr/lib/lua/luci/controller/cctv.lua
+module("luci.controller.cctv", package.seeall)
+function index()
+entry({"admin","services","cctv"}, template("cctv"), _("CCTV"), 55).leaf=true
+end
+EOF
+
+
+cat <<'EOF' >/usr/lib/lua/luci/view/cctv.htm
+<%+header%>
+<div class="cbi-map">
+<iframe id="cctv" style="width: 100%; min-height: 600px; border: none; border-radius: 2px;"></iframe>
+</div>
+<script type="text/javascript">
+document.getElementById("cctv").src = "http:IP_Webcam:port";
+</script>
+<%+footer%>
+EOF
