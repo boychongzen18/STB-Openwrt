@@ -1,6 +1,6 @@
 Creator Boychongzen aka Xroot
 
-
+Support All Versi STB OpenWRT
 
 1. Install Apk IP Webcam di PS
 
