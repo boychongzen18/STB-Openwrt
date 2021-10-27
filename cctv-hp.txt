@@ -37,4 +37,5 @@ EOF
 
 
 NB : Ganti IP Webcam Android anda masing2 ,cek Tulisan diatas & edit > http://ip_webcam:port << ip webcam anda okeh
+     Buka Luci & Cari Service > List Webcam  
 
