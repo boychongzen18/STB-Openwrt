@@ -12,6 +12,8 @@ Support All Versi STB OpenWRT
 
 Copas Script di Bawah
 
+Script ke 1
+
 cat <<'EOF' >/usr/lib/lua/luci/controller/webcam.lua
 module("luci.controller.webcam", package.seeall)
 function index()
@@ -19,6 +21,7 @@ entry({"admin","services","webcam"}, template("webcam"), _("Webcam"), 55).leaf=t
 end
 EOF
 
+Script ke 2
 
 cat <<'EOF' >/usr/lib/lua/luci/view/webcam.htm
 <%+header%>
@@ -30,3 +33,8 @@ document.getElementById("webcam").src = "http://ip_webcam:port";
 </script>
 <%+footer%>
 EOF
+
+
+
+NB : Ganti IP Webcam Android anda masing2 ,cek Tulisan diatas & edit > http://ip_webcam:port << ip webcam anda okeh
+
