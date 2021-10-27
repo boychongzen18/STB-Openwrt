@@ -7,6 +7,8 @@ Support All Versi STB OpenWRT
 1. Install Apk IP Webcam di PS
 
 2. Buka Terminal STB OpenWRT
+  A. Windows pakai  cmd atau Putty
+  B. Android Pakai Termux atau JuiceSSH
 
 Copas Script di Bawah
 
