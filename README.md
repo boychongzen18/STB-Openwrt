@@ -16,6 +16,9 @@ Link Download : https://www.partitionwizard.com/download.html
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/gigabit.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/sped.png)
 
+LiveStreaming TV Lokal
+https://www.visionplus.id/watch/channel/3/gtv?cnumb=3
+
 
 Link Dowload Rufus : https://rufus.ie/en/
 
