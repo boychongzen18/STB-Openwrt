@@ -1,5 +1,8 @@
 # STB Openwrt Windows
 
+# Cek LAN Aktif
+![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/lan.jpg)
+
 # Cek Free Space Sdacrd & Flasdisk 100MB
 ![be](https://raw.githubusercontent.com/boychongzen18/STB-Openwrt_Windows/main/fd.jpg)
 
