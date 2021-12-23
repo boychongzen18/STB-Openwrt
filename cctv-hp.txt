@@ -37,7 +37,9 @@ EOF
 
 
 NB : Ganti IP Webcam Android anda masing2 ,cek Tulisan diatas & edit > http://ip_webcam:port << ip webcam & port anda okeh
-     Buka Luci & Cari Service > List Webcam  
+     Buka Luci & Cari Service > List Webcam 
+     
+     Link Tutorial Youtube https://youtu.be/1QQIi60hIYc
      
   
 Gunakan Webcam HP Android anda dengan bijak
