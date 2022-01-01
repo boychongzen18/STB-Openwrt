@@ -51,7 +51,7 @@ OpenWRT_AP-Edition_Mod_v3
 https://drive.google.com/file/d/1uiVAuzv4sSyQS7_lPAAchfiI1gsoAT9s/view?usp=sharing
 
 LB Modem Orbit & e5372s
-https://drive.google.com/file/d/1p3SXiE7AydpMOjeyqc9dbc0f8W9J6U38/view?usp=sharing
+https://drive.google.com/file/d/18mZfr2ZZSNrh0y9ToL4fJeUc6IE16zZq/view?usp=sharing
 ======================================================================================
 
 RaspberryPi-4
