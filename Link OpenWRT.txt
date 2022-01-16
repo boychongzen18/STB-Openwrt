@@ -38,8 +38,6 @@ https://drive.google.com/file/d/1aBTf2CU-KGTf8omkHFBUsuKw-8Z1Fv5b/view?usp=shari
 Fw.19.07.6_LIBERNET_OFF_WIFI
 https://drive.google.com/file/d/1TAfu9EWZAtFzlMqudyEVmRAnxoskGWir/view?usp=sharing
 
-
-
 Fw.AP_Edition MOD WIFI OFF
 https://drive.google.com/file/d/1t5pZcEGGJEOYnBHFybi5RP2z16_6v3Bd/view?usp=sharing
 
@@ -55,8 +53,11 @@ https://drive.google.com/file/d/18mZfr2ZZSNrh0y9ToL4fJeUc6IE16zZq/view?usp=shari
 ======================================================================================
 OpenWRT_AP-Edition_Mod_v4
 https://drive.google.com/file/d/1xW8vqhbEy2Y2tgVMmi2yz6xO_qwKfpvt/view?usp=sharing
+======================================================================================
+OpenWRT_AP-Edition_OpenClash-Only
 
-
+https://drive.google.com/file/d/16sLmRNFVMzpO67a0KQzV0Fad6WcNnF21/view?usp=sharing
+======================================================================================
 
 
 
