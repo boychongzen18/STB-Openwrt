@@ -57,7 +57,7 @@ https://drive.google.com/file/d/1xW8vqhbEy2Y2tgVMmi2yz6xO_qwKfpvt/view?usp=shari
 OpenWRT_AP-Edition_OpenClash-Only
 https://drive.google.com/file/d/16sLmRNFVMzpO67a0KQzV0Fad6WcNnF21/view?usp=sharing
 
-OpenWRT_AP-Edition_OpenClash-Only & NetData
+OpenClash Only On Boot & NetData
 https://drive.google.com/file/d/1eh5pK7t_CWYrvUWAlrZV9eZV49YusYRb/view?usp=sharing
 
 ======================================================================================
