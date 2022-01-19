@@ -24,7 +24,9 @@ Download Applikasi MiniTool Partition Wizard
   data -s "2021-09-7 16:07"
   exit 0
 
+Install Manual Speedtest di terminal
 
+wget -O /usr/bin/speedtest https://github.com/r3yr3/fix_Speedtest/raw/main/speedtest && chmod +x /usr/bin/speedtest
 
 Creator Boychongzen aka Xroot
 
