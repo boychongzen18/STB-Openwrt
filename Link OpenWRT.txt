@@ -63,7 +63,9 @@ https://drive.google.com/file/d/1eh5pK7t_CWYrvUWAlrZV9eZV49YusYRb/view?usp=shari
 ======================================================================================
 
 Build OpenWRT_5.4.172-flippy-69+o & OpenClash
-https://drive.google.com/file/d/1d4noKLKuX-huPiJtnLQxalWanROwwAF4/view?usp=sharing
+https://drive.google.com/file/d/1BQHKv3H_JbnDdkMlO6gAel6kp_ZZ1h0D/view?usp=sharing
+
+
 
 
 
