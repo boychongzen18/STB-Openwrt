@@ -1,0 +1,17 @@
+  _______                     ________        __
+ |       |.-----.-----.-----.|  |  |  |.----.|  |_
+ |   -   ||  _  |  -__|     ||  |  |  ||   _||   _|
+ |_______||   __|_____|__|__||________||__|  |____|
+          |__| W I R E L E S S   F R E E D O M
+ -------------------------------------------------------
+ Install: OpenWrt â†’ System â†’ Amlogic Service â†’ Install
+ Update: OpenWrt â†’ System â†’ Amlogic Service â†’ Update
+ Amlogic SoC: s905x
+ OpenWrt Kernel: 5.4.172-flippy-69+o
+ Packaged Date: 2022-01-19
+ -------------------------------------------------------
+ 
+ 
+ Baner Asli OpenWrt
+ 
+ etc/banner
