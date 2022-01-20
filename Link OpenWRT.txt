@@ -62,14 +62,14 @@ https://drive.google.com/file/d/1eh5pK7t_CWYrvUWAlrZV9eZV49YusYRb/view?usp=shari
 
 ======================================================================================
 
+Build OpenWRT_5.4.172-flippy-69+o & OpenClash
+https://drive.google.com/file/d/1d4noKLKuX-huPiJtnLQxalWanROwwAF4/view?usp=sharing
 
 
 
-RaspberryPi-4
-https://www.mediafire.com/file/claxdgjz7mx69zf/backup-fullinstal-rpi4-v11.rar/file
 
 
-https://github.com/ophub/amlogic-s9xxx-openwrt/releases/tag/openwrt_s9xxx_lede_2021.09.17.1546
+
 
 
 
