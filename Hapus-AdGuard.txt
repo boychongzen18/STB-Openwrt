@@ -1,0 +1,18 @@
+
+Hapus AdGuard
+
+
+opkg remove luci-app-adguardhome
+
+
+etc/config/AdGuardHome < hapus
+
+etc/AdGuardHome.ymal < hapus
+
+usr/share/AdGuardHome < hapus
+
+usr/bin/AdGuardHome < hapus
+
+usr/lib/lua/luci/model/cbi/AdGuardHome < hapus
+
+usr/lib/lua/luci/view/AdGuardHome < hapus
