@@ -66,6 +66,7 @@ Build OpenWRT_5.4.172 OpenClash & Passwal
 
 
 Build OpenWRT_5.4.173 OpenClash Only
+https://drive.google.com/file/d/1laQ26xCJuo1hA-PVA3OEizNCQOLQDdad/view?usp=sharing
 
 
 
