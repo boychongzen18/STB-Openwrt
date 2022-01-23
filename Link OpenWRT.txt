@@ -39,7 +39,7 @@ Fw.19.07.6_LIBERNET_OFF_WIFI
 https://drive.google.com/file/d/1TAfu9EWZAtFzlMqudyEVmRAnxoskGWir/view?usp=sharing
 
 OpenWrt_19.07.6_Libernet-v154
-
+https://drive.google.com/file/d/1ppRp7NO-4PJG7KGOsOScn45JntjfRWup/view?usp=sharing
 
 ======================================================================================
 Fw.AP_Edition MOD WIFI OFF
