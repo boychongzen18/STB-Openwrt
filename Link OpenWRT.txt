@@ -6,6 +6,7 @@ Support STB HG680P & H860H
 Tester OpenWRT ON & OFF WIFI : Boychongzen aka Xroot
 
 
+======================================================================================
 Fw.18.06.2 MODIF
 https://www.mediafire.com/file/x2bh77cvl5tzgh0/OpenWRT_18_Modif.img.xz/file
 
@@ -18,10 +19,9 @@ https://www.mediafire.com/file/a6nzozabagelgqb/pulpstone-openwrt-18.06.2-amlogic
 Fw.18.06.2 Modif
 https://www.mediafire.com/file/hccisia8hum7g2c/STB_Stabil_dan_cocok.zip/file
 
-
 Fw.18.Openclash
 https://drive.google.com/file/d/1YiywCtbmgj4lHUW4n4KxO_8YXEfF1zuu/view?usp=sharing
-
+======================================================================================
 
 Fw.19.07.6_Modif WIFI On
 https://drive.google.com/file/d/1xNQI1R5-nfYe2NP3q3wodM5IOSI3nh6E/view?usp=sharing
@@ -58,7 +58,7 @@ OpenWRT_AP-Edition_OpenClash-Only
 https://drive.google.com/file/d/16sLmRNFVMzpO67a0KQzV0Fad6WcNnF21/view?usp=sharing
 
 OpenWRT_AP-Edition_OC-44.11
-
+https://drive.google.com/file/d/1190esSKlX6j1Gmcz1LPpwo3VLl0pqzN2/view?usp=sharing
 
 ======================================================================================
 
