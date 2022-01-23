@@ -62,7 +62,10 @@ https://drive.google.com/file/d/1eh5pK7t_CWYrvUWAlrZV9eZV49YusYRb/view?usp=shari
 
 ======================================================================================
 
-Build OpenWRT_5.4.172 OpenClash & NetData
+Build OpenWRT_5.4.172 OpenClash & Passwal
+
+
+Build OpenWRT_5.4.173 OpenClash Only
 
 
 
