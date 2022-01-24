@@ -72,7 +72,7 @@ Build OpenWRT_5.4.173 OpenClash Only
 https://drive.google.com/file/d/1laQ26xCJuo1hA-PVA3OEizNCQOLQDdad/view?usp=sharing
 
 openwrt_s905x_k5.4.173-v2 OpenClash & Passwal
-
+https://drive.google.com/file/d/1TRS32jZlsrnYl9RyqUw9fHCwisHUbemb/view?usp=sharing
 ======================================================================================
 
 
