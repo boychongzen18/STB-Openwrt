@@ -41,6 +41,9 @@ https://drive.google.com/file/d/1TAfu9EWZAtFzlMqudyEVmRAnxoskGWir/view?usp=shari
 OpenWrt_19.07.6_Libernet-v154
 https://drive.google.com/file/d/1ppRp7NO-4PJG7KGOsOScn45JntjfRWup/view?usp=sharing
 
+OpenWrt_19.07.6_Libernet-v154-WIFI-ON
+https://drive.google.com/file/d/1zOp1PNzn3xPGZ0C0iHYxBPwBWHZPd4-B/view?usp=sharing
+
 ======================================================================================
 Fw.AP_Edition MOD WIFI OFF
 https://drive.google.com/file/d/1t5pZcEGGJEOYnBHFybi5RP2z16_6v3Bd/view?usp=sharing
