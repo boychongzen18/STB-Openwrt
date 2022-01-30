@@ -1,0 +1,12 @@
+
+Install Manual nodogsplash
+
+Cara Instal Nodogsplash via Putty :
+- opkg update
+- opkg install nodogsplash
+- /etc/init.d/nodogsplash start
+
+Cara Hapus Nodogsplash via Putty : 
+/etc/init.d/nodogsplash stop
+selanjutnya.
+- opkg remove nodogsplash
