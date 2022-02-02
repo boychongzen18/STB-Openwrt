@@ -79,6 +79,11 @@ https://drive.google.com/file/d/1TRS32jZlsrnYl9RyqUw9fHCwisHUbemb/view?usp=shari
 
 openwrt_s905x_k5.4.174-OC-Only-44.14
 https://drive.google.com/file/d/1ii4Hcbp1ngbjo98aGCzbr7kdSQ_uEfxY/view?usp=sharing
+
+Build OpenWRT_5.4.175 OpenClash & Passwal On Boot
+
+
+
 ======================================================================================
 
 
