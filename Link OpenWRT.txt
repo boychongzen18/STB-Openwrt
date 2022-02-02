@@ -1,7 +1,7 @@
 
 Link Dowload aLL OpenWRT
 
-Support STB HG680P & H860H
+Support STB HG680P & B860H
 
 Tester OpenWRT ON & OFF WIFI : Boychongzen aka Xroot
 
@@ -80,7 +80,8 @@ https://drive.google.com/file/d/1TRS32jZlsrnYl9RyqUw9fHCwisHUbemb/view?usp=shari
 openwrt_s905x_k5.4.174-OC-Only-44.14
 https://drive.google.com/file/d/1ii4Hcbp1ngbjo98aGCzbr7kdSQ_uEfxY/view?usp=sharing
 
-Build OpenWRT_5.4.175 OpenClash & Passwal On Boot
+Build OpenWRT_5.4.175 OpenClash & Passwal On Boot Support STB HG680P & B860H WIFI Off
+https://drive.google.com/file/d/19Lch_q8Wt87EehnpCbcvtzHacmn8oP1q/view?usp=sharing
 
 
 
