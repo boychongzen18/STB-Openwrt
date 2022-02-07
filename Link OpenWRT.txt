@@ -68,20 +68,8 @@ https://drive.google.com/file/d/1190esSKlX6j1Gmcz1LPpwo3VLl0pqzN2/view?usp=shari
 
 ======================================================================================
 
-Build OpenWRT_5.4.173 OpenClash & Passwal
-https://drive.google.com/file/d/1ySymtr9qDvAvTn-oE41Vlv_ykag3G6Mq/view?usp=sharing
+Build OpenWRT_5.4.175 OpenClash & Passwal On Boot Support STB HG680P & B860H WIFI OFF
 
-Build OpenWRT_5.4.173 OpenClash Only
-https://drive.google.com/file/d/1laQ26xCJuo1hA-PVA3OEizNCQOLQDdad/view?usp=sharing
-
-openwrt_s905x_k5.4.173-v2 OpenClash & Passwal
-https://drive.google.com/file/d/1TRS32jZlsrnYl9RyqUw9fHCwisHUbemb/view?usp=sharing
-
-openwrt_s905x_k5.4.174-OC-Only-44.14
-https://drive.google.com/file/d/1ii4Hcbp1ngbjo98aGCzbr7kdSQ_uEfxY/view?usp=sharing
-
-Build OpenWRT_5.4.175 OpenClash & Passwal On Boot Support STB HG680P & B860H WIFI Off
-https://drive.google.com/file/d/19Lch_q8Wt87EehnpCbcvtzHacmn8oP1q/view?usp=sharing
 
 
 
