@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1aBTf2CU-KGTf8omkHFBUsuKw-8Z1Fv5b/view?usp=shari
 Fw.19.07.6_LIBERNET_OFF_WIFI
 https://drive.google.com/file/d/1TAfu9EWZAtFzlMqudyEVmRAnxoskGWir/view?usp=sharing
 
-OpenWrt_19.07.6_Libernet-v154
+OpenWrt_19.07.6_Libernet-v154-WIFI-OFF
 https://drive.google.com/file/d/1ppRp7NO-4PJG7KGOsOScn45JntjfRWup/view?usp=sharing
 
 OpenWrt_19.07.6_Libernet-v154-WIFI-ON
