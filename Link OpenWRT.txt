@@ -72,6 +72,9 @@ https://drive.google.com/file/d/1dd5BzGOrp7OH035faUbvPY1Gk3uXbB2b/view?usp=shari
 OpenWRT_AP_OC-Only-v44.20
 https://drive.google.com/file/d/1JxigPFTN6fxBonsOuVIrDzKwmRfRwauH/view?usp=sharing
 
+OpenWRT_AP_OC-Only-v44.21
+https://drive.google.com/file/d/1oG9dIN8SXfKXs_gH_FDWcjfIqw0EHZKe/view?usp=sharing
+
 ======================================================================================
 
 Build OpenWRT_5.4.175 OpenClash & Passwal On Boot Support STB HG680P & B860H WIFI OFF
