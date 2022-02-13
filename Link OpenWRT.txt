@@ -84,6 +84,8 @@ Build OpenWRT_5.4.175 OpenClash & Passwal On Boot Support STB HG680P & B860H WIF
 https://drive.google.com/file/d/1r7RAnF7j4Nuc4Xmhj1NeS8i7Sh7qvIwe/view?usp=sharing
 
 
+Build OpenWRT_5.4.178 OpenClash & Passwal On Boot Support STB HG680P & B860H WIFI OFF
+
 
 ======================================================================================
 
