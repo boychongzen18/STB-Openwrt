@@ -29,7 +29,7 @@ cat <<'EOF' >/usr/lib/lua/luci/view/webcam.htm
 <iframe id="webcam" style="width: 100%; min-height: 600px; border: none; border-radius: 2px;"></iframe>
 </div>
 <script type="text/javascript">
-document.getElementById("webcam").src = "http://192.168.1.1:7878";
+document.getElementById("webcam").src = "http://192.168.1.1:1010";
 </script>
 <%+footer%>
 EOF
