@@ -93,6 +93,10 @@ https://drive.google.com/file/d/1d0kYka1rLr8UKyC2PB6eVEraLxBdUf58/view?usp=shari
 Build OpenWRT_5.4.178 OpenClash v27
 https://drive.google.com/file/d/1elMYjAQWVYFwzZE6B3S9ImmUEjVuc6sq/view?usp=sharing
 
+
+Build OpenWRT_5.4.178 OpenClash v29
+https://drive.google.com/file/d/1a_PxO7iFzdOyjxc-F1K-PaDBc40xhKhr/view?usp=sharing
+
 ======================================================================================
 
 
