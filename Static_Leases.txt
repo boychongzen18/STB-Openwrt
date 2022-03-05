@@ -1,0 +1,16 @@
+Setting LEASETIME REMAINING di OpenWRT
+
+
+CEK NETWORK
+
+DHCP and DNS
+
+General Settings
+
+Static Leases
+
+ADD
+
+KETIK infinite
+
+
