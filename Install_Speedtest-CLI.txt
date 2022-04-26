@@ -1,0 +1,12 @@
+
+Download speedtest
+
+https://www.speedtest.net/apps/cli
+
+save file speedtest
+
+cd /usr/bin
+
+Eksekusi Speedtest
+
+chmod 0755
