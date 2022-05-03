@@ -107,6 +107,10 @@ https://drive.google.com/file/d/1kLfJ8wlPnxwIn5W2QA6qD3SbTzYnZ4f6/view?usp=shari
 
 ======================================================================================
 
+Build OpenWRT_5.4.191_OC-Only
+
+https://drive.google.com/file/d/1hS6AjQbjLCW_aLACRDP-ZGevNMhprQFJ/view
+
 
 
 
