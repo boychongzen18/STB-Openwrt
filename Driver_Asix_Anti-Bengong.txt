@@ -41,6 +41,8 @@ lalu reboot atau cabut kabel power stbnya
 
 Cek Gambar SAYA
 
+https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/stb.jpg
+
 https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/asix.jpg
 
 https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/asix1.jpg
