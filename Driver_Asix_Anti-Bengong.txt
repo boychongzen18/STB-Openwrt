@@ -1,0 +1,45 @@
+
+
+Hapus Dirver USB TO LAN Asix
+
+
+
+
+Cek Pertama
+Cara 1 Melalui Luci Web:
+System -> Software -> Tab Actions
+
+Filter -> FIND PACKAGE
+
+ketik Contoh : kmod-usb-net-cdc-eem
+
+NB : File harus ada semuanya
+
+1. kmod-usb-net-cdc-eem
+2. kmod-usb-net-cdc-ether
+3. kmod-usb-net-cdc-mbim
+4. kmod-usb-net-cdc-ncm
+5. kmod-usb-net-cdc-subset
+6. kmod-usb-net-huawei-cdc-ncm
+
+Cek Kedua
+Cara 1 Melalui Luci Web:
+System -> Software -> Tab Actions
+
+Filter -> FIND PACKAGE
+
+ketik Contoh : kmod-usb-net-asix
+
+hapus / Remove File 2 di bawah
+
+Remove	kmod-usb-net-asix	
+Remove	kmod-usb-net-asix-ax88179	
+
+lalu reboot atau cabut kabel power stbnya
+
+
+Cek Gambar SAYA
+
+https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/asix.jpg
+
+https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/asix1.jpg
