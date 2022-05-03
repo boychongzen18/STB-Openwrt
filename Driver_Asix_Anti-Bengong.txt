@@ -1,12 +1,13 @@
 
 
+Tester OpenWRT OFF WIFI : Boychongzen aka Xroot
+
+
 Hapus Dirver USB TO LAN Asix
 
 
-
-
 Cek Pertama
-Cara 1 Melalui Luci Web:
+Cara Melalui Luci Web:
 System -> Software -> Tab Actions
 
 Filter -> FIND PACKAGE
@@ -23,7 +24,7 @@ NB : File harus ada semuanya
 6. kmod-usb-net-huawei-cdc-ncm
 
 Cek Kedua
-Cara 1 Melalui Luci Web:
+Cara Melalui Luci Web:
 System -> Software -> Tab Actions
 
 Filter -> FIND PACKAGE
