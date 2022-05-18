@@ -117,8 +117,11 @@ Build OpenWRT_5.4.178_OC-Passwall
 https://drive.google.com/file/d/1r3gmmYZczeGh2SM0omCyYP1Fu-g2k5am/view
 
 ======================================================================================
+MODEM PL100 LTE ON & Tools Openclash Only
 
+Openwrt-21.02.2-MT7621-Arion-AlkhaNET-V1.4OCBeta-Only
 
+https://drive.google.com/file/d/170Cce1u8BK2l5bkc7H0MB_cjbk6hljp_/view
 
 
 
