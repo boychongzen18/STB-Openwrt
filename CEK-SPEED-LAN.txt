@@ -1,4 +1,4 @@
-Cara Cek Speed LAN
+Cara Cek Speed 
 
 
 Link Download iPerf3
@@ -18,5 +18,5 @@ iperf3 -s
 
 Eksekusi di CMD Windows
 
-iperf.exe -c IP STB OpenWRT -R
+iperf.exe -c IP STB OpenWRT
 
