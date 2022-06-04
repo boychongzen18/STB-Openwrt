@@ -1,0 +1,22 @@
+Cara Cek Speed LAN
+
+
+Link Download iPerf3
+
+https://iperf.fr/iperf-download.php
+
+
+Ekstra File & Pasang di Folder 
+
+C:\Windows\System32
+
+
+Eksekusi di Terminal STB OpenWRT
+
+iPerf3 -s
+
+
+Eksekusi di CMD Windows
+
+iperf.exe -c IP STB OpenWRT -R
+
