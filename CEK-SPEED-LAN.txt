@@ -13,7 +13,7 @@ C:\Windows\System32
 
 Eksekusi di Terminal STB OpenWRT
 
-iPerf3 -s
+iperf3 -s
 
 
 Eksekusi di CMD Windows
