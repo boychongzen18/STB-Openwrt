@@ -1,5 +1,5 @@
 
-Link Dowload aLL OpenWRT
+Link Dowload ALL OpenWRT
 
 Support STB HG680P & B860H
 
@@ -7,6 +7,11 @@ Tester OpenWRT ON & OFF WIFI : Boychongzen aka Xroot
 
 
 ======================================================================================
+Link Burning
+https://rufus.ie/downloads/
+
+
+
 Fw.18.06.2 MODIF
 https://www.mediafire.com/file/x2bh77cvl5tzgh0/OpenWRT_18_Modif.img.xz/file
 
