@@ -135,12 +135,12 @@ https://drive.google.com/file/d/170Cce1u8BK2l5bkc7H0MB_cjbk6hljp_/view
 
 OpenWRT_VLAN-ID_F906-B310s
 
-
 https://drive.google.com/file/d/1YAI7fBWeur2mtJU1aycKuMwP1rQGVNMa/view
 
 
 OpenWRT_VLAN-ID_F906-B310s-OC-Only
 
+https://drive.google.com/file/d/1bSZCXYoxsn6VNq7gKoh8ZbGhFMU_nJ8Q/view
 
 
 
