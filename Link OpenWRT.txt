@@ -143,8 +143,8 @@ OpenWRT_VLAN-ID_F906-B310s-OC-Only
 https://drive.google.com/file/d/1bSZCXYoxsn6VNq7gKoh8ZbGhFMU_nJ8Q/view
 
 
-
-
+OpenWRT_VLAN-ID_ORBIT_STAR2_OC-Only
+https://drive.google.com/file/d/1bdGmjs66_RPCfzZtgRjtY9oMfIeUwWu_/view
 
 
 
