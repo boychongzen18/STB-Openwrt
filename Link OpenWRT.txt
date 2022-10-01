@@ -151,6 +151,10 @@ OpenWRT_VLAN-ID-LB-MODEM
 https://drive.google.com/file/d/16rjr-91pP29M52amrlHmDL3210lLK3Uw/view
 
 
+Build Openwrt_s905x_k5.4.185.WIFI-ON
+https://drive.google.com/file/d/1WD0WIHkSAcl8I9AjGUf62ae2Vb9dnAfZ/view
+
+
 
 
 
