@@ -1,0 +1,35 @@
+
+
+CARA FIX TTL OpenWRT
+
+Eksekusi di Terminal
+opkg update
+opkg install iptables-mod-ipopt
+
+Buka LUCI
+Network → Firewall → Custom Rules
+
+Copas Script di → Custom Rules
+
+# Interfaces
+ETH0="eth0"
+ETH1="eth1"
+BRLAN="br-lan"
+#==================================
+# TTL Bypass
+iptables -t mangle -I POSTROUTING -o $ETH0 -j TTL --ttl-set 65
+iptables -t mangle -I POSTROUTING -o $ETH1 -j TTL --ttl-set 65
+iptables -t mangle -I POSTROUTING -o $BRLAN -j TTL --ttl-set 65
+iptables -t mangle -I PREROUTING -i $ETH0 -j TTL --ttl-set 65
+iptables -t mangle -I PREROUTING -i $ETH1 -j TTL --ttl-set 65
+iptables -t mangle -I PREROUTING -i $BRLAN -j TTL --ttl-set 65
+#==================================
+
+Cara Masukan Config TTL 65
+
+etc/sysctl.conf < edit masukin script dibawa ini lalu Save
+
+net.ipv4.ip_default_ttl=65
+net.ipv6.ip_default_ttl=65
+
+Silahkan Save & Restart Openwrtnya
