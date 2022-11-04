@@ -1,4 +1,4 @@
-
+Khusus Opsel Axisnet Paket Warnet Unlimited 1hari
 
 CARA FIX TTL OpenWRT
 
@@ -33,3 +33,11 @@ net.ipv4.ip_default_ttl=65
 net.ipv6.ip_default_ttl=65
 
 Silahkan Save & Restart Openwrtnya
+
+
+NB : Belum bisa Konek Paketnya & belum bisa dipakai 1 Jaringan
+     Chat FB Saya >>> https://web.facebook.com/xroot.xroot.7
+     
+     
+     
+     
