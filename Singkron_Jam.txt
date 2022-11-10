@@ -1,0 +1,26 @@
+Cara Singkron Jam Otomatis di OpenWRT
+
+
+Buka Terminal
+
+echo -e "#!/bin/bash\nsleep 10\ndate -s \"\$(curl worldtimeapi.org -s|grep unixtime|awk -F '\">' '{print $2}'|sed 's/T/ /g'|head -c19)\"" > /bin/timesync && chmod +x /bin/timesync && screen -dmS time /bin/timesync
+
+Contoh Gambar
+https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/terminal.jpg
+
+
+Buka LUCI
+
+System > Starup
+
+# Put your custom commands here that should be executed once
+# the system init finished. By default this file does nothing.
+
+/etc/init.d/openclash enable
+/etc/init.d/passwall enable
+sed -i 's#exit 0#\n/bin/timesync\nexit 0#g' /etc/rc.local
+exit 0
+
+
+Contoh Gambar
+https://raw.githubusercontent.com/boychongzen18/STB-Openwrt/main/starup.jpg
