@@ -30,7 +30,7 @@ iptables -t mangle -I POSTROUTING -o $ETH1 -j TTL --ttl-set 65
 iptables -t mangle -I POSTROUTING -o $BRLAN -j TTL --ttl-set 65
 iptables -t mangle -I PREROUTING -i $ETH0 -j TTL --ttl-set 65
 iptables -t mangle -I PREROUTING -i $ETH1 -j TTL --ttl-set 65
-iptables -t mangle -I PREROUTING -i $BRLAN -j TTL --ttl-set 
+iptables -t mangle -I PREROUTING -i $BRLAN -j TTL --ttl-set 65
 
 
 
