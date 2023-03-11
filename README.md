@@ -25,7 +25,7 @@ https://www.visionplus.id/watch/channel/2/rcti?cnumb=2
 
 Link Dowload Rufus : https://rufus.ie/en/
 
-Youtube      : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+My_Youtube      : youtube.com/@AksesInternet2023
 
 Tutorial Format FD : https://youtu.be/toInEqn0GeM
 
