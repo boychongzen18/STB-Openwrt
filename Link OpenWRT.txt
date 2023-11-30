@@ -10,8 +10,10 @@ Tester OpenWRT ON & OFF WIFI : Boychongzen aka Xroot
 Link Burning
 https://rufus.ie/downloads/
 
+Tutorial Format & Burning OpenWRT
+https://drive.google.com/file/d/1Kr7GCxIPsAeS8Bq4WbnezUT7XkvetymG/view
 
-
+======================================================================================
 Fw.18.06.2 MODIF
 https://www.mediafire.com/file/x2bh77cvl5tzgh0/OpenWRT_18_Modif.img.xz/file
 
