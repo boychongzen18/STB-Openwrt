@@ -156,6 +156,8 @@ https://drive.google.com/file/d/16rjr-91pP29M52amrlHmDL3210lLK3Uw/view
 Build Openwrt_s905x_k5.4.185.WIFI-ON
 https://drive.google.com/file/d/1-akN5VnuCYy-6SNU9WL9z_K9PNLTLAm1/view
 
+https://drive.usercontent.google.com/download?id=1-akN5VnuCYy-6SNU9WL9z_K9PNLTLAm1&export=download&authuser=0
+
 
 Openwrt_Voucheran STB HG680 / B860H Internal Wifi Off
 https://anotepad.com/notes/jp336kga
