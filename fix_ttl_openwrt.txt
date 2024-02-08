@@ -45,6 +45,16 @@ net.ipv6.ip_default_ttl=65
 Silahkan Save & Restart Openwrtnya
 
 
+Link Vidio Tutorial
+
+KE 1
+https://drive.google.com/file/d/1GS2QhQ0QjQCncjiOBQ3BAKJopxxTB8Sg/view
+
+KE 2
+https://drive.google.com/file/d/1AcyXrt_dI6lIIdtyH40RostXi_ElxQGd/view
+
+
+
 NB : Belum bisa Konek Paketnya & belum bisa dipakai 1 Jaringan
      Chat FB Saya >>> https://web.facebook.com/xroot.xroot.7
      
