@@ -53,6 +53,28 @@ https://drive.google.com/file/d/1GS2QhQ0QjQCncjiOBQ3BAKJopxxTB8Sg/view
 KE 2
 https://drive.google.com/file/d/1AcyXrt_dI6lIIdtyH40RostXi_ElxQGd/view
 
+#======================================================================
+#======================================================================
+
+Cara mengubah ttl pada perangkat yang menggunakan sistem OpenWRT firewall4
+
+Scrip untuk file ttl : etc/ttl.user
+
+
+nft add rule inet fw4 mangle_prerouting iifname wan ip ttl set 64
+nft add rule inet fw4 mangle_postrouting oifname wan ip ttl set 64
+
+Scrip untuk file config firewall4 : etc/config/firewal
+
+
+config include
+    option path '/etc/ttl.user'
+    option fw4_compatible '1'
+
+
+
+
+
 
 
 NB : Belum bisa Konek Paketnya & belum bisa dipakai 1 Jaringan
