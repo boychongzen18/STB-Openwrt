@@ -164,12 +164,11 @@ https://anotepad.com/notes/jp336kga
 
 
 ======================================================================================
-MIHOMO_B860H-V1_24.10.0_24.02.25_ON-WIFI
-https://drive.google.com/file/d/1ZsnQwWRuxe4J2YGCbwxrmYP-iPhU7v0_/view?usp=sharing
 
+B860H_KERNEL.5.15.178_ON-WIFI  READY TOOLS OC & MIHOMO
 
-B860H-V1_KERNEL.5.15.178_ON-WIFI
-https://drive.google.com/file/d/1jbgIlDzwT8m38P0br_xqHaKQSjU56RjH/view
+https://drive.usercontent.google.com/download?id=1A3CQo13sDf-q1JZBeKsQzt2Um0ND5NM-&export=download&authuser=0
+
 ======================================================================================
 
 
