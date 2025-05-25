@@ -1,7 +1,7 @@
 
   Creator Boychongzen aka Xroot
 
-  Fix Bad Gateway Habis Intsall OpenWRT di EMMC 
+  Fix Bad Gateway Habis InsTall OpenWRT di EMMC 
 
 1. Download dulu File di sini
    https://github.com/boychongzen18/STB-Openwrt/blob/main/php8-cgi
