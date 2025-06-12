@@ -1,0 +1,2 @@
+nft add rule inet fw4 mangle_prerouting iifname { "usb0", "wwan0", "eth1" } counter ip ttl set 65
+nft add rule inet fw4 mangle_postrouting oifname { "usb0", "wwan0", "eth1" } counter ip ttl set 65

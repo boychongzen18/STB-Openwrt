@@ -1,0 +1,2 @@
+nft add rule inet fw4 mangle_prerouting iifname eth1 ip ttl set 65
+nft add rule inet fw4 mangle_postrouting oifname eth1 ip ttl set 65
